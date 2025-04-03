@@ -1,5 +1,1 @@
-Boa noite professor, Demorei muito para fazer o primeiro com a estrutura condicional if, mas depois que fiz, eu tentei fazer com switch case e tive mais facilidades...
-estou fazendo o curso de python tambem, entao nao sei muito de java script, mas estou pegando uma noçao com suas aulas, espero que esteja tudo certo com meus codigos kk !
-valeu abraço!
-obs: ao lado da pasta src eu queria deixar "niveis do meu heroi" mas ficou heroi nivel prata porque acho que foi meu ultimo codigo que fiz com o commit...
-tentei dar um commit -m "niveis do heroi" mas acho q nao atualiza assim ne. mas vlwww
+
